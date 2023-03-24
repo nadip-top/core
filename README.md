@@ -1,2 +1,3 @@
 # core
-Магазин футболок Core
+
+<a href="core.html">Магазин футболок Core</a>
